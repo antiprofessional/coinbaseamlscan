@@ -4,7 +4,7 @@ export default function ShieldGraphic() {
   return (
     <div className="relative w-64 h-64">
       <Image
-        src="/placeholder.svg?height=256&width=256"
+        src="/main.png?height=256&width=256"
         alt="Security Shield"
         width={256}
         height={256}
@@ -29,7 +29,7 @@ export default function ShieldGraphic() {
       <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
         <div className="w-28 h-28 rounded-full bg-white border-4 border-black flex items-center justify-center">
           <Image
-            src="/placeholder.svg?height=40&width=40"
+            src="/main.png?height=40&width=40"
             alt="Checkmark"
             width={40}
             height={40}
