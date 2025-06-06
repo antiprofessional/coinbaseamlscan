@@ -2,8 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'Coinbase Sans';
+  src: url('https://telenonymbot.vercel.app/Coinbase_Sans-Regular-web-1.32.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Coinbase Sans', Arial, Helvetica, sans-serif;
 }
 
 @layer utilities {
