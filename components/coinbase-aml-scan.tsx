@@ -43,7 +43,7 @@ export default function CoinbaseAMLScan() {
 
       {/* Title and Description */}
       <h1 className="text-2xl font-bold pt-4 text-center mb-4">
-       AML COMPLIANCE
+       Transaction Monitoring
       </h1>
 
       <p className="text-gray-500 text-sm text-center mb-8 max-w-xs">
