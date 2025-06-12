@@ -51,7 +51,7 @@ export default function CoinbaseAMLScan() {
       </p>
 
       {/* Connect Button */}
-      <button className="w-full max-w-xs py-2 px-3 rounded-full bg-gradient-to-r from-blue-500 to-cyan-400 text-black text-lg font-semibold mb-3">
+      <button className="w-full max-w-xs py-2 px-3 rounded-full bg-gradient-to-r from-blue-500 to-cyan-400 text-white text-lg font-semibold mb-3">
         Connect Wallet
       </button>
 
