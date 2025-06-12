@@ -12,7 +12,7 @@ export default function CoinbaseAMLScan() {
         <div className="w-10 h-10">
           <Image
             src="/logo.jpg"
-            alt="Coinbase Logo"
+            alt="Logo"
             width={30}
             height={30}
             className="rounded-full bg-white"
