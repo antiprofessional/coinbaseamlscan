@@ -5,8 +5,9 @@ export const metadata: Metadata = {
   title: 'Coinbase - AML Scan',
   description: 'Real time wallet scanner',
   icons: {
-    icon: 'https://altcoinsbox.com/wp-content/uploads/2022/12/coinbase-logo.png',
-    apple: 'https://altcoinsbox.com/wp-content/uploads/2022/12/coinbase-logo.png',
+    icon: '/icon.png',
+    shortcut: '/icon.png',
+    apple: '/icon.png',
   },
 }
 
